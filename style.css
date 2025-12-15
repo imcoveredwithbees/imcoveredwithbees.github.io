@@ -8,3 +8,7 @@ nav ul {
   background-color: yellow;
   padding-left: 0px;
 }
+
+nav uk li {
+  display: inline;
+}
